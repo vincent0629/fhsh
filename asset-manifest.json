@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.81f64fa1.chunk.css",
-    "main.js": "/static/js/main.cafcd5e7.chunk.js",
-    "main.js.map": "/static/js/main.cafcd5e7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92ee656d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92ee656d.js.map",
-    "static/js/2.4b4aee24.chunk.js": "/static/js/2.4b4aee24.chunk.js",
-    "static/js/2.4b4aee24.chunk.js.map": "/static/js/2.4b4aee24.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.81f64fa1.chunk.css.map": "/static/css/main.81f64fa1.chunk.css.map",
-    "static/js/2.4b4aee24.chunk.js.LICENSE.txt": "/static/js/2.4b4aee24.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/static/media/slice_logo.8e2ae5a8.svg",
-    "static/media/bottom.svg": "/static/media/bottom.c2a0e866.svg",
-    "static/media/next.svg": "/static/media/next.d0808652.svg",
-    "static/media/skip.svg": "/static/media/skip.9ff1744a.svg",
-    "static/media/slice_c.svg": "/static/media/slice_c.b50a0cb1.svg",
-    "static/media/top.svg": "/static/media/top.daa0a7fb.svg"
+    "main.css": "/fhsh/static/css/main.42cf1abe.chunk.css",
+    "main.js": "/fhsh/static/js/main.155477d0.chunk.js",
+    "main.js.map": "/fhsh/static/js/main.155477d0.chunk.js.map",
+    "runtime-main.js": "/fhsh/static/js/runtime-main.86f84ee0.js",
+    "runtime-main.js.map": "/fhsh/static/js/runtime-main.86f84ee0.js.map",
+    "static/js/2.4b4aee24.chunk.js": "/fhsh/static/js/2.4b4aee24.chunk.js",
+    "static/js/2.4b4aee24.chunk.js.map": "/fhsh/static/js/2.4b4aee24.chunk.js.map",
+    "index.html": "/fhsh/index.html",
+    "service-worker.js": "/fhsh/service-worker.js",
+    "service-worker.js.map": "/fhsh/service-worker.js.map",
+    "static/css/main.42cf1abe.chunk.css.map": "/fhsh/static/css/main.42cf1abe.chunk.css.map",
+    "static/js/2.4b4aee24.chunk.js.LICENSE.txt": "/fhsh/static/js/2.4b4aee24.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/fhsh/static/media/slice_logo.8e2ae5a8.svg",
+    "static/media/bottom.svg": "/fhsh/static/media/bottom.c2a0e866.svg",
+    "static/media/next.svg": "/fhsh/static/media/next.d0808652.svg",
+    "static/media/skip.svg": "/fhsh/static/media/skip.9ff1744a.svg",
+    "static/media/slice_c.svg": "/fhsh/static/media/slice_c.b50a0cb1.svg",
+    "static/media/top.svg": "/fhsh/static/media/top.daa0a7fb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92ee656d.js",
+    "static/js/runtime-main.86f84ee0.js",
     "static/js/2.4b4aee24.chunk.js",
-    "static/css/main.81f64fa1.chunk.css",
-    "static/js/main.cafcd5e7.chunk.js"
+    "static/css/main.42cf1abe.chunk.css",
+    "static/js/main.155477d0.chunk.js"
   ]
 }
