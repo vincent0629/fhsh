@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fhsh/static/css/main.4131d89d.chunk.css",
-    "main.js": "/fhsh/static/js/main.d073b469.chunk.js",
-    "main.js.map": "/fhsh/static/js/main.d073b469.chunk.js.map",
+    "main.css": "/fhsh/static/css/main.afa69057.chunk.css",
+    "main.js": "/fhsh/static/js/main.53e2f847.chunk.js",
+    "main.js.map": "/fhsh/static/js/main.53e2f847.chunk.js.map",
     "runtime-main.js": "/fhsh/static/js/runtime-main.86f84ee0.js",
     "runtime-main.js.map": "/fhsh/static/js/runtime-main.86f84ee0.js.map",
     "static/js/2.20014b3e.chunk.js": "/fhsh/static/js/2.20014b3e.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/fhsh/index.html",
     "service-worker.js": "/fhsh/service-worker.js",
     "service-worker.js.map": "/fhsh/service-worker.js.map",
-    "static/css/main.4131d89d.chunk.css.map": "/fhsh/static/css/main.4131d89d.chunk.css.map",
+    "static/css/main.afa69057.chunk.css.map": "/fhsh/static/css/main.afa69057.chunk.css.map",
     "static/js/2.20014b3e.chunk.js.LICENSE.txt": "/fhsh/static/js/2.20014b3e.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/fhsh/static/media/scene.38ee1289.svg",
     "static/media/next.svg": "/fhsh/static/media/next.d0808652.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.86f84ee0.js",
     "static/js/2.20014b3e.chunk.js",
-    "static/css/main.4131d89d.chunk.css",
-    "static/js/main.d073b469.chunk.js"
+    "static/css/main.afa69057.chunk.css",
+    "static/js/main.53e2f847.chunk.js"
   ]
 }
