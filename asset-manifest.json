@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fhsh/static/css/main.afa69057.chunk.css",
-    "main.js": "/fhsh/static/js/main.c8bf22c3.chunk.js",
-    "main.js.map": "/fhsh/static/js/main.c8bf22c3.chunk.js.map",
-    "runtime-main.js": "/fhsh/static/js/runtime-main.86f84ee0.js",
-    "runtime-main.js.map": "/fhsh/static/js/runtime-main.86f84ee0.js.map",
-    "static/js/2.20014b3e.chunk.js": "/fhsh/static/js/2.20014b3e.chunk.js",
-    "static/js/2.20014b3e.chunk.js.map": "/fhsh/static/js/2.20014b3e.chunk.js.map",
-    "index.html": "/fhsh/index.html",
-    "service-worker.js": "/fhsh/service-worker.js",
-    "service-worker.js.map": "/fhsh/service-worker.js.map",
-    "static/css/main.afa69057.chunk.css.map": "/fhsh/static/css/main.afa69057.chunk.css.map",
-    "static/js/2.20014b3e.chunk.js.LICENSE.txt": "/fhsh/static/js/2.20014b3e.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/fhsh/static/media/scene.38ee1289.svg",
-    "static/media/next.svg": "/fhsh/static/media/next.d0808652.svg",
-    "static/media/slice_c.svg": "/fhsh/static/media/slice_c.b50a0cb1.svg"
+    "main.css": "./static/css/main.ce94f479.chunk.css",
+    "main.js": "./static/js/main.4de20839.chunk.js",
+    "main.js.map": "./static/js/main.4de20839.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0660989e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0660989e.js.map",
+    "static/js/2.20014b3e.chunk.js": "./static/js/2.20014b3e.chunk.js",
+    "static/js/2.20014b3e.chunk.js.map": "./static/js/2.20014b3e.chunk.js.map",
+    "index.html": "./index.html",
+    "service-worker.js": "./service-worker.js",
+    "service-worker.js.map": "./service-worker.js.map",
+    "static/css/main.ce94f479.chunk.css.map": "./static/css/main.ce94f479.chunk.css.map",
+    "static/js/2.20014b3e.chunk.js.LICENSE.txt": "./static/js/2.20014b3e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "./static/media/scene.38ee1289.svg",
+    "static/media/next.svg": "./static/media/next.d0808652.svg",
+    "static/media/slice_c.svg": "./static/media/slice_c.b50a0cb1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.86f84ee0.js",
+    "static/js/runtime-main.0660989e.js",
     "static/js/2.20014b3e.chunk.js",
-    "static/css/main.afa69057.chunk.css",
-    "static/js/main.c8bf22c3.chunk.js"
+    "static/css/main.ce94f479.chunk.css",
+    "static/js/main.4de20839.chunk.js"
   ]
 }
